@@ -1,0 +1,6 @@
+{
+  "name": "AI 發票整理與驗證系統",
+  "description": "企業級 AI 發票影像辨識與自動整理系統：支援批次上傳、雙向欄位驗證、錯誤視覺提示（圈選與箭頭標記）及 Excel 報表匯出，符合會計與統計法規。",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
